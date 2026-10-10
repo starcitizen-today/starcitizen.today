@@ -1,0 +1,14 @@
+# Jekyll (legacy reference)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Node / modern tooling
+node_modules/
+dist/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
